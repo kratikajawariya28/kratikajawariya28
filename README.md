@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data scientist.<br>I am currently working on a hotel booking Analysis Project.<br>I am currently learning various machine-learning techniques.<br>I am looking to collaborate on a machine learning project.<br>Ask me about Data Science.
+I am a Data scientist.<br>I am currently working on a Bike Sharing Demand Prediction Project.<br>I am currently learning various machine-learning techniques.<br>I am looking to collaborate on a machine learning project.<br>Ask me about Data Science.
 
 
 ## 🌐 Socials:
